@@ -1,7 +1,6 @@
 //student main function
 public class Studentmain {
  
-
  public static void main(String[] args) {
    
         StudentDemo ob = new StudentDemo();
