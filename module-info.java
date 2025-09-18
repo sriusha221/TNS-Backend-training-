@@ -4,5 +4,5 @@
 /**
  * 
  */
-module com.tnsif.genricdemo {
+module operator {
 }
